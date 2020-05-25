@@ -4,4 +4,4 @@ title: Resume
 permalink: /resume/
 ---
 
-## My resume
+## coming soon...
