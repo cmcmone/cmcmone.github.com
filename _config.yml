@@ -23,6 +23,8 @@ plainwhite:
       url: "/resume"
     - title: About
       url: "/about"
+  disqus_shortname: raycblog
+  analytics_id: "UA-167686376-1"
 
   # generate social links in footer
   social_links:
