@@ -14,7 +14,7 @@ My name is `Ray`, a student of computer science at [WCSU](https://www.wcsu.edu/)
   
 ### Contact
 
-I am looking for a job, please contact me. Thank you!
+If you have any questions or job opportunities, please contact me. Thank you!
 
 email: [cmcmone@gmail.com](cmcmone@gmail.com)  
 github: [my github](https://github.com/cmcmone)
