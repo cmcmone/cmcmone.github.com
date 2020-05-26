@@ -4,6 +4,7 @@ email: cmcmone@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   The website records some questions and thoughts about the process of learning C ++ / Java.
 show_excerpts: true # set to true to show excerpts on the homepage
+excerpt_separator: <!--excerpt-->
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -11,7 +12,9 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Ray Chen
-  tagline: Backend Developer
+  tagline: |
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student
+    Backend Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar

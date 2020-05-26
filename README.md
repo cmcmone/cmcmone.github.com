@@ -23,12 +23,12 @@ Welcome to my site: [cmcmone.github.io](https://cmcmone.github.io/)
 
 ### C++
 
-- [C++](https://timsong-cpp.github.io/cppwp/)
+- [Standard for Programming Language C++](https://timsong-cpp.github.io/cppwp/)
 
 ### Java
 
-- [Java](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
+- [Java API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 
 ### Algorithm
 
-- [Leetcode](https://leetcode.com/problemset/all/)
+- [Leetcode Problems](https://leetcode.com/problemset/all/)
