@@ -27,7 +27,7 @@ return [0, 1].
 
 The easiest way is to use brute force to traverse all the elements in the array to get the solution.
 
-```Java
+```java
 public int[] twoSum(int[] nums, int target) {
     for (int i = 0; i < nums.length; i++) {
         for (int j = i + 1; j < nums.length; j++) {
@@ -43,9 +43,9 @@ The brute force method can solve this problem, but its time complexity is O(n<su
 
 ### Approach 2: Hash Table
 
-A better solution is to use Hash Table to solve this problem, only need to traverse the array once, so its complexity is O (n).
+A better solution is to use Hash Table to solve this problem, only need to traverse the array once, so its time complexity is O (n).
 
-```Java
+```java
 public int[] twoSum(int[] nums, int target) {
     int[] ret = new int[2];
     var map = new HashMap<Integer, Integer>();
