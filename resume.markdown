@@ -68,7 +68,7 @@ Motivated individual seeking a software developer position where I will be able 
 
 ## **<i class="fas fa-heart"></i> FIELD OF INTEREST**  
 
-- Full-stack development
+- Full-stack Development
 - Web Development
 
 <head> 
