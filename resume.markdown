@@ -4,6 +4,11 @@ title: Resume
 permalink: /resume/
 ---
 
+<button type="button" class="button" onclick="window.location.href='mailto: cmcmone@gmail.com'">Hire Me Now</button>
+<button type="button" class="button disabled">Download Résumé</button>
+
+---
+
 # **<center> RAY CHEN </center>**  
 
 ---
@@ -71,8 +76,29 @@ Motivated individual seeking a software developer position where I will be able 
 - Full-stack Development
 - Web Development
 
-<head> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>
+<head>
+  <style>
+    .button {
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 10px 24px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+
+    .disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+  </style>
+
+  <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>  
+
+  <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>  
 </head> 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
