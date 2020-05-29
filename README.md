@@ -1,5 +1,6 @@
 # [Ray's Blog](https://cmcmone.github.io/)
 
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-Ray%20Chen-green)](https://cmcmone.github.io/resume/)
 [![Blog](https://img.shields.io/badge/Site-Ray's%20Blog-blue)](https://cmcmone.github.io/)
 [![Github](https://img.shields.io/badge/Github-Project-Red?style=flat-square&logo=github)](https://github.com/cmcmone)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcmcmone2005)](https://twitter.com/cmcmone2005)
@@ -32,3 +33,6 @@ Welcome to my site: [cmcmone.github.io](https://cmcmone.github.io/)
 ### Algorithm
 
 - [Leetcode Problems](https://leetcode.com/problemset/all/)
+
+  - [Solved(10/1459)](https://github.com/cmcmone/Algorithm-Exercises)  
+    - [![my solution](https://progress-bar.dev/1/?title=Solved&nbsp;&width=100)](https://github.com/cmcmone/Algorithm-Exercises)
