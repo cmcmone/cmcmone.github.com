@@ -63,13 +63,13 @@ Motivated individual seeking a software developer position where I will be able 
 
 ## **<i class="fas fa-cogs"></i> SKILLS**  
 
-- ![C++](https://progress-bar.dev/60/?title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C%2B%2B&nbsp;&nbsp;&nbsp;&width=200)
+- ![C++](https://progress-bar.dev/50/?title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C%2B%2B&nbsp;&nbsp;&nbsp;&width=200)
 - ![Java](https://progress-bar.dev/50/?title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JAVA&nbsp;&nbsp;&width=200)
 - ![Sql](https://progress-bar.dev/50/?title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;&width=200)
 - ![Html](https://progress-bar.dev/40/?title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&width=200)
-- ![JavaScript](https://progress-bar.dev/25/?title=JAVASCRIPT&nbsp;&width=200)
+- ![JavaScript](https://progress-bar.dev/20/?title=JAVASCRIPT&nbsp;&width=200)
 - ![css](https://progress-bar.dev/10/?title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&width=200)
-- ![Spring](https://progress-bar.dev/40/?title=&nbsp;&nbsp;&nbsp;&nbsp;SPRING&nbsp;&width=200)
+- ![Spring](https://progress-bar.dev/30/?title=&nbsp;&nbsp;&nbsp;&nbsp;SPRING&nbsp;&width=200)
 
 ## **<i class="fas fa-heart"></i> FIELD OF INTEREST**  
 
