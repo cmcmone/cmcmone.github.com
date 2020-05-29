@@ -18,7 +18,7 @@ Welcome to my site: [cmcmone.github.io](https://cmcmone.github.io/)
 
 ## Contents
 
-- [C++](#C++)
+- [C++](#C%2B%2B)
 - [Java](#Java)
 - [Algorithm](#Algorithm)
 
@@ -35,4 +35,5 @@ Welcome to my site: [cmcmone.github.io](https://cmcmone.github.io/)
 - [Leetcode Problems](https://leetcode.com/problemset/all/)
 
   - [Solved(10/1459)](https://github.com/cmcmone/Algorithm-Exercises)  
+
     - [![my solution](https://progress-bar.dev/1/?title=Solved&nbsp;&width=100)](https://github.com/cmcmone/Algorithm-Exercises)
