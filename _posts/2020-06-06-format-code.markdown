@@ -19,13 +19,13 @@ Format the code in Visual Studio 2019 (Windows):
 
 ### Set Code Style
 
-For set code style in `Visual Studio 2019`, from top menu: `Tools` -> `Options` -> `Text Editor` options, then click the language of your choice(I used `C++`).
+For set code style in Visual Studio 2019, from top menu: `Tools` -> `Options` -> `Text Editor` options, then click the language of your choice(I used `C++`).
 
 ![Text Editor](https://github.com/cmcmone/cmcmone.github.com/blob/master/imgs/202006/texteditor.png?raw=true)
 
 ### Set Keyboard
 
-For change the shortcut key in `Visual Studio 2019`, from top menu: `Tools` -> `Options` -> `Environment` -> `Keyboard` options.
+For change the shortcut key in Visual Studio 2019, from top menu: `Tools` -> `Options` -> `Environment` -> `Keyboard` options.
 
 ![Keyboard](https://github.com/cmcmone/cmcmone.github.com/blob/master/imgs/202006/keyboard.png?raw=true)
 
