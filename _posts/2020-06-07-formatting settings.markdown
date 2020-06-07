@@ -23,12 +23,11 @@ For set [K&R layout](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuideline
     }
     ```
 
-- move open braces to a new line for types
+- keep open braces on the same line for types
 
     ```c++
     namespace Namespace1
-    class Class1
-    {
+    class Class1 {
     };
     ```
 
