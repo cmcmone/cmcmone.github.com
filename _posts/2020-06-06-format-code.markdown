@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to format code in Visual Studio 2019"
-date:   2020-06-06 13:52:35 -0411
+date:   2020-06-06 13:52:35 -0400
 categories: Formatting VisualStudio2019
 excerpt:  In order to maintain the unity of code style in teamwork, we should format the code before submitting to Github....... 
 ---
