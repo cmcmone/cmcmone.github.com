@@ -78,6 +78,16 @@ For set layout in Visual Studio 2019, from top menu: `Tools` -> `Options` -> `Te
 
 - place close braces on separate lines for empty types, function bodies.
 
+    ```c++
+    class MyException
+    {
+    }
+
+    MyClass::~MyClass()
+    {
+    }
+    ```
+
 - place 'catch', 'else' and similar keywords on a new line
 
     ```c++
