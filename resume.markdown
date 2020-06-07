@@ -63,7 +63,7 @@ Motivated individual seeking a software developer position where I will be able 
 
 ## **<i class="fas fa-cogs"></i> SKILLS**  
 
-   `C++`、 `Java`、 `sql`、 `html`、`JavaScript`、 `Spring`
+- C++, Java, sql, html, JavaScript, Spring
 
 ## **<i class="fas fa-heart"></i> FIELD OF INTEREST**  
 
