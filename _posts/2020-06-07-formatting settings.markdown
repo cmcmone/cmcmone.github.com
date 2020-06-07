@@ -10,7 +10,7 @@ Formatting settings in Visual Studio 2019 use K&R-derived layout and more.
 
 ## K&R layout
 
-For set layout in Visual Studio 2019, from top menu: `Tools` -> `Options` -> `Text Editor` -> `C/C++` -> `Formatting` options:
+For set [K&R layout](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#nl17-use-kr-derived-layout) in Visual Studio 2019, from top menu: `Tools` -> `Options` -> `Text Editor` -> `C/C++` -> `Formatting` options:
 
 - move open braces to a new line for namespaces
 
