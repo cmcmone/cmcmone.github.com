@@ -21,16 +21,16 @@ Format the code in Visual Studio 2019 (Windows):
 
 For set code style in Visual Studio 2019, from top menu: `Tools` -> `Options` -> `Text Editor` options, then click the language of your choice(I used `C++`).
 
-![Text Editor](https://github.com/cmcmone/cmcmone.github.com/blob/master/imgs/202006/texteditor.png?raw=true)
+![Text Editor](https://github.com/cmcmone/cmcmone.github.com/blob/master/imgs/202006/texteditor.png?raw=true){: width="60%" height="60%"}
 
 ### Set Keyboard
 
 For change the shortcut key in Visual Studio 2019, from top menu: `Tools` -> `Options` -> `Environment` -> `Keyboard` options.
 
-![Keyboard](https://github.com/cmcmone/cmcmone.github.com/blob/master/imgs/202006/keyboard.png?raw=true)
+![Keyboard](https://github.com/cmcmone/cmcmone.github.com/blob/master/imgs/202006/keyboard.png?raw=true){: width="60%" height="60%"}
 
 ### Extensions
 
 Of course, you can also use an extension to automatically format the code when it is saved, from top menu: `Extensions` -> `Manage Extensions`, then search `format` in the upper right corner and install `Format document on Save`.
 
-![Extension](https://github.com/cmcmone/cmcmone.github.com/blob/master/imgs/202006/extension.png?raw=true)
+![Extension](https://github.com/cmcmone/cmcmone.github.com/blob/master/imgs/202006/extension.png?raw=true){: width="60%" height="60%"}
